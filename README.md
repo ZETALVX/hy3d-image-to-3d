@@ -45,14 +45,14 @@ hy3d/
 ├─ models/
 │  └─ Hunyuan3D-2.1/          # Shape model weights
 │
-├─ Hunyuan3D-2.1-main/        # Official GitHub code + script
+├─ Hunyuan3D-2.1-main/        # Official GitHub code
 │  ├─ hy3dshape/
 │  ├─ hy3dpaint/
 │  │  └─ ckpt/
 │  │     └─ RealESRGAN_x4plus.pth
 │  ├─ input/
 │  ├─ output/
-│  └─ run_hy3d_image2textured.py
+│  └─ z3v_official.py.py       #script
 ```
 
 ---
