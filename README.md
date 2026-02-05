@@ -221,8 +221,8 @@ RESOLUTION = 512
 ### Recommended values (RTX 3090)
 
 ```text
-RESOLUTION = 512
 MAX_NUM_VIEW = 6-8
+RESOLUTION = 512
 ```
 
 Higher values may cause **out-of-memory (OOM)** errors or GPU instability.
