@@ -77,7 +77,10 @@ In the folder Hunyuan3D-2.1-main, insert the script from this repository.
 
 ### 2) Download the shape model (mandatory)
 
-Download the **Hunyuan 3D 2.1 shape model weights** and place them here:
+Download the **Hunyuan 3D 2.1 shape model weights**
+https://huggingface.co/tencent/Hunyuan3D-2.1
+
+and place them here:
 
 ```text
 models/Hunyuan3D-2.1/
