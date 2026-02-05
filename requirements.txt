@@ -1,0 +1,16 @@
+# Core
+torch
+torchvision
+numpy
+Pillow
+tqdm
+
+# 3D / mesh handling
+trimesh
+
+# Image background removal (used by hy3dshape)
+opencv-python
+scikit-image
+
+# Utilities
+PyYAML
