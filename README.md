@@ -154,7 +154,7 @@ input/
 Run:
 
 ```bash
-python run_hy3d_image2textured.py
+python z3v_official.py
 ```
 
 ---
@@ -164,7 +164,7 @@ python run_hy3d_image2textured.py
 Process a single image directly:
 
 ```bash
-python run_hy3d_image2textured.py --path you/path/image.png
+python z3v_official.py --path you/path/image.png
 ```
 
 ---
@@ -174,13 +174,13 @@ python run_hy3d_image2textured.py --path you/path/image.png
 Enable background removal:
 
 ```bash
-python run_hy3d_image2textured.py --remove-bg
+python z3v_official.py --remove-bg
 ```
 
 Force background removal even if the image already has an alpha channel:
 
 ```bash
-python run_hy3d_image2textured.py --remove-bg --force-remove
+python z3v_official.py --remove-bg --force-remove
 ```
 
 > For backward compatibility, `--rimuovi-sfondo` (italian) is also supported as an alias.
